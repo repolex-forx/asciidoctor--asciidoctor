@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asciidoctor/asciidoctor/commit/356f79cd21b00bba15fbfa3f4f7a3059abe6a4d3",
       "git:hexsha": "356f79cd21b00bba15fbfa3f4f7a3059abe6a4d3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asciidoctor/asciidoctor/commit/7513537119d9d6441e3debafb01408ec84a25e31",
