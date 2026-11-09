@@ -1,0 +1,11 @@
+{
+  "org": "asciidoctor",
+  "repo": "asciidoctor",
+  "versions": [
+    {
+      "commit": "356f79cd21b00bba15fbfa3f4f7a3059abe6a4d3",
+      "tag": "",
+      "parsed_at": "2026-11-09T23:21:21.277895+00:00"
+    }
+  ]
+}
